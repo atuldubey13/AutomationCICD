@@ -15,6 +15,8 @@ import org.testng.Assert;
 public class StandAloneTest {
 
 	public static void main(String[] args) {
+
+		//Adding comment to test CICD
 		
 		String productName = "ZARA COAT 3";
 		
